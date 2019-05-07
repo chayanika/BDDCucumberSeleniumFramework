@@ -1,11 +1,14 @@
-Feature: Free CRM login feature
+Feature: Splash Math login feature
 
 
-Scenario: Free CRM login test scenario
+Scenario: Splash Math login test scenario
 Given user is already on Login Page
-When title of login page is Free CRM
-Then user enters username and user enters password
-Then user clicks on login button
-And user ison home page
+When title of login page is Splash Math
+Then user clicks on option button
+Then user clicks on Sign In button 
+Then user chooses Parent option
+Then user enters Email id and user enters password
+Then user clicks on Sign in button
+And user is on home page
 
 
