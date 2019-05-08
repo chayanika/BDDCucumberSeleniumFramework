@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="88.132605">
+<testcase classname="SplashMath login" name="SplashMath login as parent" time="88.132605">
+<system-out><![CDATA[Given user is already on Splash Math Login Page.............................passed
+When title of login page is Splash Math.....................................passed
+Then user clicks on option button...........................................passed
+Then user clicks on Sign In button..........................................passed
+Then user chooses Parent option.............................................passed
+And user is lands on home page..............................................passed
+Then Close the current browser..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
